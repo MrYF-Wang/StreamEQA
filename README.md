@@ -224,7 +224,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## 📚 Citation
+## Citation
 
 If you use this benchmark or build upon this repository, please cite:
 
@@ -237,10 +237,9 @@ If you use this benchmark or build upon this repository, please cite:
 }
 ```
 
-## ⏳ Note from the Authors
+## Acknowledgments
+ Supported by Shanghai General AI Foundation Models Program (Grant No. 2025SHZDZX025G16)
 
-This release focuses on the StreamEQA annotations and the minimal online evaluation pipeline. Third-party model repositories and model weights should be prepared separately.
-
-## 📞 Contact
+## Contact
 
 For questions or issues, please open an issue in this repository.
