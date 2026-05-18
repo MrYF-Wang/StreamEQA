@@ -1,0 +1,7 @@
+accelerate
+ffmpeg-python
+numpy
+qwen-vl-utils
+tqdm
+transformers
+
